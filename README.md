@@ -1,1 +1,1 @@
-# ALXprodev-advanced_git
+# data requirements: email, firstName, lastName, profilePic
